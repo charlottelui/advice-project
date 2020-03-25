@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/advice-project/static/css/main.dae7ba57.chunk.css",
+    "main.js": "/advice-project/static/js/main.b7486388.chunk.js",
+    "main.js.map": "/advice-project/static/js/main.b7486388.chunk.js.map",
+    "runtime-main.js": "/advice-project/static/js/runtime-main.677bc27b.js",
+    "runtime-main.js.map": "/advice-project/static/js/runtime-main.677bc27b.js.map",
+    "static/js/2.4b3513ad.chunk.js": "/advice-project/static/js/2.4b3513ad.chunk.js",
+    "static/js/2.4b3513ad.chunk.js.map": "/advice-project/static/js/2.4b3513ad.chunk.js.map",
+    "index.html": "/advice-project/index.html",
+    "precache-manifest.a97dda3ef6f6f4b68c7a1f207fc816b7.js": "/advice-project/precache-manifest.a97dda3ef6f6f4b68c7a1f207fc816b7.js",
+    "service-worker.js": "/advice-project/service-worker.js",
+    "static/css/main.dae7ba57.chunk.css.map": "/advice-project/static/css/main.dae7ba57.chunk.css.map",
+    "static/js/2.4b3513ad.chunk.js.LICENSE.txt": "/advice-project/static/js/2.4b3513ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.677bc27b.js",
+    "static/js/2.4b3513ad.chunk.js",
+    "static/css/main.dae7ba57.chunk.css",
+    "static/js/main.b7486388.chunk.js"
+  ]
+}
